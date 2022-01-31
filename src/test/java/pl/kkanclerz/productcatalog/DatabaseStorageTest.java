@@ -1,4 +1,4 @@
-package pl.kkanclerz.productcatalog;
+package pl.kmichalski.productcatalog;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
